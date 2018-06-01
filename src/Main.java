@@ -9,6 +9,10 @@ public class Main {
 
         HeniEdition app = new HeniEdition();
         app.setReaderWriter("input.csv", "output.csv");
+
+
+        app.setOutputHeader(new String[]{"ID", "SKU", "Published"});
+
         app.loopThroughReadAllRows();
 
    //     CSVReader reader = new CSVReader(new FileReader(Main.INPUT));
