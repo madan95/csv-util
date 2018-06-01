@@ -1,0 +1,709 @@
+ID,Type,SKU,Name,Published,Is featured?,Visibility in catalogue,Short description,Description,Date sale price starts,Date sale price ends,Tax status,Tax class,In stock?,Stock,Backorders allowed?,Sold individually?,Weight (kg),Length (cm),Width (cm),Height (cm),Allow customer reviews?,Purchase note,Sale price,Regular price,Categories,Tags,Shipping class,Images,Download limit,Download expiry days,Parent,Grouped products,Upsells,Cross-sells,External URL,Button text,Position,Meta: inline_featured_image,Meta: edition_group,Meta: _edition_group,Meta: edition_id,Meta: _edition_id,Meta: artist_name,Meta: _artist_name,Meta: _yoast_wpseo_primary_product_cat,Meta: _yoast_wpseo_content_score,Meta: edition_subtitle,Meta: _edition_subtitle,Meta: author,Meta: _author,Meta: sub-header,Meta: _sub-header,Meta: header_image,Meta: _header_image,,ID,Name,Short description,Tax status,Tax class,In stock?,Stock,Weight (kg),Length (cm),Width (cm),Height (cm),Regular price,Shipping class,Group,Number,Edition,Subtitle
+212,simple,,Summer,1,0,visible,"A giclée print of:
+Etel Adnan
+Summer, 1970
+300 × 367 mm
+Drawing for a tapestry, markers on paper",,,,taxable,,1,10,0,0,,,,,0,,,100,Editions,,,"http://henieditions.com/wp-content/uploads/sites/4/2018/04/E1-Summer-Preview.jpg, http://henieditions.com/wp-content/uploads/sites/4/2018/04/Editions_art_1.png, http://henieditions.com/wp-content/uploads/sites/4/2018/04/Heni_Group_BG.png",,,,,,,,,0,0,202,field_5accc8de1bcea,E1,field_5accc92598d38,222,field_5acdc5e88a8f6,,30,Etel Adnan,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,212,Summer,"A giclée print of:, Etel Adnan, Summer, 1970, 202 × 253 mm, Drawing for a tapestry, markers on paper",taxable,,1,,,,,,£300 ,,E,1,E1,Etel Adnan
+272,simple,,Portrait of George Dyer Riding a Bicycle,1,0,visible,"Giclée print mounted on aluminium composite panel, framed:
+Francis Bacon
+Portrait of George Dyer Riding a Bicycle, 1966, CR 66-15
+Oil and sand on canvas
+Fondation Beyeler, Riehen/Basel
+Original: 1980 × 1475 mm
+Edition: 1100 × 820 mm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/Q01_Francis-Bacon_66-15_Portrait-of-George-Dyer-Riding-a-Bicycle_1966_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,277,field_5accc8de1bcea,Q1B,field_5accc92598d38,207,field_5acdc5e88a8f6,,30,Francis Bacon,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,272,Lake Keitele,"A giclée print of:, Gallen-Kallela, 546mm x 676mm, <a href=""https://www.nationalgallery.co.uk/products/lake-keitele-limited-edition-print/p_1046206"">Click here</a> to purchase through National Gallery",taxable,,0,,,,,,£650 ,,N,G1,NG1,Akseli Gallen-Kallela
+286,simple,,Bagdad,1,0,visible,"A facsimile object of: 
+Gerhard Richter 
+Bagdad, 2010, CR 914-1 
+500 × 400 mm
+Lacquer behind glass",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/P09_Gerhard-Richter_CR_914-1_Bagdad_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,203,field_5accc8de1bcea,P9,field_5accc92598d38,299,field_5acdc5e88a8f6,,30,Gerhard Richter,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,286,Playground,"A giclée print of:, Etel Adnan, Playground, 1970, 202 × 253 mm, Drawing for a tapestry, markers on paper",taxable,,1,,,,,,£300 ,,E,2,E2,Etel Adnan
+291,simple,,Bagdad,1,0,visible,"A facsimile object of: 
+Gerhard Richter 
+Bagdad, 2010, CR 914-2 
+500 × 400 mm
+Lacquer behind glass",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/P10_Gerhard-Richter_CR_914-2_Bagdad_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,203,field_5accc8de1bcea,P10,field_5accc92598d38,299,field_5acdc5e88a8f6,,30,Gerhard Richter,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,291,Summer,"A tapestry of:, Etel Adnan, Summer, 1970, 202 × 253 mm, Drawing for a tapestry, markers on paper",taxable,,1,,,,,,"£2,000 ",,E,3,E3,Etel Adnan
+294,simple,,Aladin,1,0,visible,"A facsimile object of: 
+Gerhard Richter 
+Aladin, 2010, CR 915-8 
+370 × 500 mm
+Lacquer behind glass",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/P11_Gerhard-Richter_CR_915-8_Aladin_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,203,field_5accc8de1bcea,P11,field_5accc92598d38,299,field_5acdc5e88a8f6,,30,Gerhard Richter,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,294,Playground,"A tapestry of:, Etel Adnan, Playground, 1970, 202 × 253 mm, Drawing for a tapestry, markers on paper",taxable,,1,,,,,,"£2,000 ",,E,4,E4,Etel Adnan
+296,simple,,Annunciation after Titan,1,0,visible,"A giclée print of:
+Gerhard Richter
+Annunciation after Titian, 1973, CR 343-1 
+1250 × 2000 mm
+Oil on canvas",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/P12_Gerhard-Richter_CR_343-1_Annuciation_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,203,field_5accc8de1bcea,P12,field_5accc92598d38,299,field_5acdc5e88a8f6,,30,Gerhard Richter,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,296,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm, Edition 1 of 70 to 70 of 70",taxable,,1,,,,,,,,G,1-1,G1-1,Brian Clarke
+303,simple,,Fence,1,0,visible,"A giclée print of: 
+Gerhard Richter 
+Fence, 2008, CR 907-1 
+355 × 270 mm
+Oil on canvas",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/P13_Gerhard-Richter_CR_907-1_Zaun_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,203,field_5accc8de1bcea,P13,field_5accc92598d38,299,field_5acdc5e88a8f6,,30,Gerhard Richter,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,303,Revelation,"A tapestry of:, Damien Hirst, Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 , 1219 × 1219 mm, Household gloss on canvas",taxable,,1,,,,,,POA,,H,1-1,H1-1,Damien Hirst
+306,simple,,Flow,1,0,visible,"A facsimile object of: 
+Gerhard Richter 
+Flow, 2013, CR 933-2 
+1000 × 2000 mm 
+Lacquer behind glass",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/P15.jpg,,,,,,,,,0,0,203,field_5accc8de1bcea,P15,field_5accc92598d38,299,field_5acdc5e88a8f6,,30,Gerhard Richter,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,306,Dream,"A tapestry of:, Damien Hirst, Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 , 1219 × 1219 mm, Household gloss on canvas",taxable,,1,,,,,,POA,,H,1-2,H1-2,Damien Hirst
+308,simple,,Flow,1,0,visible,"A facsimile object of:
+Gerhard Richter
+Flow, 2013, CR 933-3
+1000 × 2000 mm
+Lacquer behind glass",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/P16.jpg,,,,,,,,,0,0,203,field_5accc8de1bcea,P16,field_5accc92598d38,299,field_5acdc5e88a8f6,,30,Gerhard Richter,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,308,Supernatural,"A tapestry of:, Damien Hirst, Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 , 1219 × 1219 mm, Household gloss on canvas",taxable,,1,,,,,,POA,,H,1-3,H1-3,Damien Hirst
+310,simple,,Tulips,1,0,visible,"A giclée print of:
+
+Gerhard Richter
+
+Tulpen, 1995, CR 825-2
+
+360 × 410 mm
+
+Oil on canvas",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/P17_Gerhard-Richter_CR_825-2_Tulpen_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,203,field_5accc8de1bcea,P17,field_5accc92598d38,299,field_5acdc5e88a8f6,,30,Gerhard Richter,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,310,Trance,"A tapestry of:, Damien Hirst, Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 , 1219 × 1219 mm, Household gloss on canvas",taxable,,1,,,,,,POA,,H,1-4,H1-4,Damien Hirst
+312,simple,,Portrait of George Dyer Riding a Bicycle,1,0,visible,"Giclée print mounted on aluminium composite panel, framed:
+Francis Bacon
+Portrait of George Dyer Riding a Bicycle, 1966, CR 66-15
+Oil and sand on canvas
+Fondation Beyeler, Riehen/Basel
+Original: 1980 × 1475 mm
+Edition: 1980 × 1475 mm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/Q01_Francis-Bacon_66-15_Portrait-of-George-Dyer-Riding-a-Bicycle_1966_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,277,field_5accc8de1bcea,Q1A,field_5accc92598d38,207,field_5acdc5e88a8f6,,30,Francis Bacon,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,312,Light,"A tapestry of:, Damien Hirst, Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 , 1219 × 1219 mm, Household gloss on canvas",taxable,,1,,,,,,POA,,H,1-5,H1-5,Damien Hirst
+314,simple,,Lying Figure,1,0,visible,"Giclée print mounted on aluminium composite panel, framed:
+Francis Bacon
+Lying Figure, 1969, CR 69-03
+Oil on canvas
+Fondation Beyeler, Riehen/Basel
+Original: 1980 × 1475 mm
+Edition: 1980 × 1475 mm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/Q02_Francis-Bacon_69-03_Lying-Figure_1969_2500px_8bit_sRGB-1.jpg,,,,,,,,,0,0,277,field_5accc8de1bcea,Q2A,field_5accc92598d38,207,field_5acdc5e88a8f6,,30,Francis Bacon,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,314,Rapture,"A tapestry of:, Damien Hirst, Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 , 1219 × 1219 mm, Household gloss on canvas",taxable,,1,,,,,,POA,,H,1-6,H1-6,Damien Hirst
+316,simple,,Flow,1,0,visible,"A facsimile object of: 
+Gerhard Richter 
+Flow, 2013, CR 934-7 
+Original: 280 × 280 mm
+Edition: 450 × 450 mm
+Lacquer behind glass",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/P07_Gerhard-Richter_CR_934-7_Flow_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,203,field_5accc8de1bcea,P7,field_5accc92598d38,299,field_5acdc5e88a8f6,,30,Gerhard Richter,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,316,Being,"A tapestry of:, Damien Hirst, Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 , 1219 × 1219 mm, Household gloss on canvas",taxable,,1,,,,,,POA,,H,1-7,H1-7,Damien Hirst
+318,simple,,Lying Figure,1,0,visible,"Giclée print mounted on aluminium composite panel, framed:
+Francis Bacon
+Lying Figure, 1969, CR 69-03
+Oil on canvas
+Fondation Beyeler, Riehen/Basel
+Original: 1980 × 1475 mm
+Edition: 1100 x 820 mm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/Q02_Francis-Bacon_69-03_Lying-Figure_1969_2500px_8bit_sRGB-1.jpg,,,,,,,,,0,0,277,field_5accc8de1bcea,Q2B,field_5accc92598d38,207,field_5acdc5e88a8f6,,30,Francis Bacon,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,318,Ecstasy,"A tapestry of:, Damien Hirst, Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 , 1219 × 1219 mm, Household gloss on canvas",taxable,,1,,,,,,POA,,H,1-8,H1-8,Damien Hirst
+320,simple,,Study for Head of Lucian Freud,1,0,visible,"A giclée print of:
+Francis Bacon
+Study for Head of Lucian Freud, 1967, CR 67-07 355 × 305 mm
+Oil on canvas
+Private Collection",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/Q03_Francis-Bacon_67-07_Study-for-Head-of-Lucian-Freud_1952_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,277,field_5accc8de1bcea,Q3,field_5accc92598d38,207,field_5acdc5e88a8f6,,30,Francis Bacon,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,320,Glory,"A tapestry of:, Damien Hirst, Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 , 1219 × 1219 mm, Household gloss on canvas",taxable,,1,,,,,,POA,,H,1-9,H1-9,Damien Hirst
+322,simple,,Study of a Nude,1,0,visible,"A giclée print of:
+Francis Bacon
+Study of a Nude, 1952-1953, CR 53-01
+610 × 510 mm
+Oil on canvas
+Sainsbury Centre for Visual Arts, Norwich",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/Q04_Francis-Bacon_53-01_Study-of-a-Nude_1953_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,277,field_5accc8de1bcea,Q4,field_5accc92598d38,207,field_5acdc5e88a8f6,,30,Francis Bacon,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,322,Exaltation,"A tapestry of:, Damien Hirst, Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 , 1219 × 1219 mm, Household gloss on canvas",taxable,,1,,,,,,POA,,H,1-10,H1-10,Damien Hirst
+324,simple,,‘Figures in a Landscape’,1,0,visible,"A giclée print of:
+Francis Bacon
+‘Figures in a Landscape’, c. 1956, CR 56-11 
+1473 × 1321 mm
+Oil on canvas",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/Q05_Francis-Bacon_56-11_Figures-in-a-Landscape_1956_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,277,field_5accc8de1bcea,Q5,field_5accc92598d38,207,field_5acdc5e88a8f6,,30,Francis Bacon,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,324,Prophecy,"A tapestry of:, Damien Hirst, Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 , 1219 × 1219 mm, Household gloss on canvas",taxable,,1,,,,,,POA,,H,1-11,H1-11,Damien Hirst
+326,simple,,In Memory of George Dyer,1,0,visible,"Diasec-mounted giclée print on aluminium composite panel:
+Francis Bacon
+In Memory of George Dyer, 1971, CR 71-09
+Oil and dry transfer lettering on canvas
+Triptych
+Original: 1980 × 1475 mm
+Edition: 1980 × 1475 mm, each numbered",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/1970-03.png,,,,,,,,,0,0,277,field_5accc8de1bcea,Q6A,field_5accc92598d38,207,field_5acdc5e88a8f6,,30,Francis Bacon,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,326,Seeing,"A tapestry of:, Damien Hirst, Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 , 1219 × 1219 mm, Household gloss on canvas",taxable,,1,,,,,,POA,,H,1-12,H1-12,Damien Hirst
+328,simple,,In Memory of George Dyer,1,0,visible,"Diasec-mounted giclée print on aluminium composite panel:
+Francis Bacon
+In Memory of George Dyer, 1971, CR 71-09
+Oil and dry transfer lettering on canvas
+Triptych
+Original: 1980 × 1475 mm
+Edition: 1100 x 820 mm, each numbered",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/1970-03-1.png,,,,,,,,,0,0,277,field_5accc8de1bcea,Q6B,field_5accc92598d38,207,field_5acdc5e88a8f6,,30,Francis Bacon,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,328,Colour Chart,"A giclée print of:, Damien Hirst, Ducolux Farbenkarte und Pastelltöne , 1440 × 1000 mm, Household gloss on canvas, Triptych",taxable,,1,,,,,,POA,,H,2,H2,Damien Hirst
+330,simple,,‘Study after Velázquez’,1,0,visible,"Diasec-mounted giclée print on aluminium composite panel:
+Francis Bacon
+‘Study after Velázquez’, 1950, CR 50-05
+Oil on canvas
+Original: 1980 × 1370 mm
+Edition: 1980 × 1370 mm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/Q07_Francis-Bacon_50-05_Study-after-Velazquez_1950_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,277,field_5accc8de1bcea,Q7A,field_5accc92598d38,207,field_5acdc5e88a8f6,,30,Francis Bacon,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,330,Colour Chart (Glitter),"A screenprint of:, Damien Hirst, Ducolux Farbenkarte und Pastelltöne , 1440 × 1000 mm, Household gloss on canvas, Triptych",taxable,,1,,,,,,POA,,H,3,H3,Damien Hirst
+334,simple,,‘Study after Velázquez’,1,0,visible,"Diasec-mounted giclée print on aluminium composite panel:
+Francis Bacon
+‘Study after Velázquez’, 1950, CR 50-05
+Oil on canvas
+Original: 1980 × 1370 mm
+Edition: 1100 × 761 mm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/Q07_Francis-Bacon_50-05_Study-after-Velazquez_1950_2500px_8bit_sRGB-1.jpg,,,,,,,,,0,0,277,field_5accc8de1bcea,Q7B,field_5accc92598d38,207,field_5acdc5e88a8f6,,30,Francis Bacon,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,334,Abstraktes Bild,"A facsimile object of:, Gerhard Richter, Abstraktes Bild, 1990, CR 724-4 , 920 × 1260 mm, Oil on canvas",taxable,,1,,,,,,SOLD OUT,,P,1,P1,Gerhard Richter
+336,simple,,‘Marching Figures’,1,0,visible,"Diasec-mounted giclée print on aluminium composite panel:
+Francis Bacon
+‘Marching Figures’, c.1952, CR 52-22 
+Oil on canvas
+Original: 1980 × 1370 mm
+Edition: 1981 × 1372 mm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/Q08_Francis-Bacon_52-22_Marching-Figures_1952_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,277,field_5accc8de1bcea,Q8A,field_5accc92598d38,207,field_5acdc5e88a8f6,,30,Francis Bacon,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,336,Haggadah,"A facsimile object of: , Gerhard Richter, Haggadah, 2006, CR 895-10 , 1520 × 1520 mm, Oil on canvas",taxable,,1,,,,,,SOLD OUT,,P,2,P2,Gerhard Richter
+337,simple,,‘Marching Figures’,1,0,visible,"Diasec-mounted giclée print on aluminium composite panel:
+Francis Bacon
+‘Marching Figures’, c.1952, CR 52-22 
+Oil on canvas
+Original: 1980 × 1370 mm
+Edition: 1100 × 761 mm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/Q08_Francis-Bacon_52-22_Marching-Figures_1952_2500px_8bit_sRGB-1.jpg,,,,,,,,,0,0,277,field_5accc8de1bcea,Q8B,field_5accc92598d38,207,field_5acdc5e88a8f6,,30,Francis Bacon,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,337,Blumenstrauß,"A facsimile object of:, Gerhard Richter , Blumenstrauß, 2009, CR 908-1 , 600 × 885 mm, Oil on canvas",taxable,,1,,,,,,SOLD OUT,,P,3,P3,Gerhard Richter
+338,simple,,Ifrit,1,0,visible,"A facsimile object of: 
+Gerhard Richter
+Ifrit, 2010, CR 915-20 
+330 × 440 mm 
+Lacquer behind glass",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/P08_Gerhard-Richter_CR_915-20_Ifrit_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,203,field_5accc8de1bcea,P8,field_5accc92598d38,299,field_5acdc5e88a8f6,,30,Gerhard Richter,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,338,Flow,"A facsimile object of:, Gerhard Richter , Flow, 2013, CR 934-9 , 370 × 370 mm , Lacquer behind glass",taxable,,1,,,,,,SOLD OUT,,P,4,P4,Gerhard Richter
+339,simple,,Flow,1,0,visible,"A facsimile object of: 
+Gerhard Richter
+Flow, 2013, CR 934-13 
+Original: 370 × 370 mm
+Edition: 450 × 450 mm
+Lacquer behind glass",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/P06_Gerhard-Richter_CR_934-13_Flow_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,203,field_5accc8de1bcea,P6,field_5accc92598d38,299,field_5acdc5e88a8f6,,30,Gerhard Richter,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,339,Flow,"A facsimile object of: , Gerhard Richter, Flow, 2013, CR 934-11 , 370 × 370 mm , Lacquer behind glass",taxable,,1,,,,,,SOLD OUT,,P,5,P5,Gerhard Richter
+340,simple,,Lake Keitele,1,1,visible,"A giclée print of:
+Akseli Gallen-Kallela
+Lake Keitele, 1905
+546 × 676 mm
+Oil on canvas
+<a href=""https://www.nationalgallery.co.uk/products/lake-keitele-limited-edition-print/p_1046206"">Click here</a> to purchase through National Gallery",,,,taxable,,0,,0,0,,,,,0,,,,Editions,,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/N-6574_Gallen-Kallela_Lake-Keitele_M3C1_1000x803px@72dpi_8bit_sRGB-2.jpg,,,,,,,,,0,0,274,field_5accc8de1bcea,NG1,field_5accc92598d38,292,field_5acdc5e88a8f6,,30,Akseli Gallen-Kallela,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,340,Flow,"A facsimile object of: , Gerhard Richter, Flow, 2013, CR 934-13 , 370 × 370 mm , Lacquer behind glass",taxable,,1,,,,,,SOLD OUT,,P,6,P6,Gerhard Richter
+341,simple,,Being,1,0,visible,"A tapestry of:
+Damien Hirst
+Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 
+1219 × 1219 mm
+Household gloss on canvas",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/HENI_H1-7_1200x1200px_8bit_eciRGBv2.jpg,,,,,,,,,0,0,276,field_5accc8de1bcea,H1-7,field_5accc92598d38,298,field_5acdc5e88a8f6,,30,Damien Hirst,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,341,Flow,"A facsimile object of: , Gerhard Richter , Flow, 2013, CR 934-7 , 280 × 280 mm , Lacquer behind glass",taxable,,1,,,,,,SOLD OUT,,P,7,P7,Gerhard Richter
+342,simple,,Playground,1,0,visible,"A giclée print of:
+Etel Adnan
+Playground, 1970
+300 × 367 mm
+Drawing for a tapestry, markers on paper",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/E2-Playground-Preview.jpg,,,,,,,,,0,0,202,field_5accc8de1bcea,E2,field_5accc92598d38,222,field_5acdc5e88a8f6,,30,Etel Adnan,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,342,Ifrit,"A facsimile object of: , Gerhard Richter, Ifrit, 2010, CR 915-20 , 330 × 440 mm , Lacquer behind glass",taxable,,1,,,,,,SOLD OUT,,P,8,P8,Gerhard Richter
+343,simple,,Summer,1,0,visible,"A tapestry of:
+Etel Adnan
+Summer, 1970
+2045 × 2500 mm
+Drawing for a tapestry, markers on paper",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/E3-Summer-Preview.jpg,,,,,,,,,0,0,202,field_5accc8de1bcea,E3,field_5accc92598d38,222,field_5acdc5e88a8f6,,30,Etel Adnan,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,343,Bagdad,"A facsimile object of: , Gerhard Richter , Bagdad, 2010, CR 914-1 , 500 × 400 mm, Lacquer behind glass",taxable,,1,,,,,,SOLD OUT,,P,9,P9,Gerhard Richter
+344,simple,,Playground,1,0,visible,"A tapestry of:
+Etel Adnan
+Playground, 1970
+2045 × 2500 mm
+Drawing for a tapestry, markers on paper",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/E2-Playground-Preview.jpg,,,,,,,,,0,0,202,field_5accc8de1bcea,E4,field_5accc92598d38,222,field_5acdc5e88a8f6,,30,Etel Adnan,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,344,Bagdad,"A facsimile object of: , Gerhard Richter , Bagdad, 2010, CR 914-2 , 500 × 400 mm, Lacquer behind glass",taxable,,1,,,,,,SOLD OUT,,P,10,P10,Gerhard Richter
+345,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm
+Edition 1 of 70 to 70 of 70",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/01-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-1,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,345,Aladin,"A facsimile object of: , Gerhard Richter , Aladin, 2010, CR 915-8 , 370 × 500 mm, Lacquer behind glass",taxable,,1,,,,,,SOLD OUT,,P,11,P11,Gerhard Richter
+346,simple,,Revelation,1,0,visible,"A tapestry of:
+Damien Hirst
+Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 
+1219 × 1219 mm
+Household gloss on canvas",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/HENI_H1-1_1200x1200px_8bit_eciRGBv2.jpg,,,,,,,,,0,0,276,field_5accc8de1bcea,H1-1,field_5accc92598d38,298,field_5acdc5e88a8f6,,30,Damien Hirst,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,346,Annunciation after Titan,"A giclée print of:, Gerhard Richter, Annunciation after Titian, 1973, CR 343-1 , 1250 × 2000 mm, Oil on canvas",taxable,,1,,,,,,SOLD OUT,,P,12,P12,Gerhard Richter
+347,simple,,Dream,1,0,visible,"A tapestry of:
+Damien Hirst
+Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 
+1219 × 1219 mm
+Household gloss on canvas",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/HENI_H1-2_1200x1200px_8bit_eciRGBv2.jpg,,,,,,,,,0,0,276,field_5accc8de1bcea,H1-2,field_5accc92598d38,298,field_5acdc5e88a8f6,,30,Damien Hirst,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,347,Fence,"A giclée print of: , Gerhard Richter , Fence, 2008, CR 907-1 , 355 × 270 mm, Oil on canvas",taxable,,1,,,,,,SOLD OUT,,P,13,P13,Gerhard Richter
+348,simple,,Supernatural,1,0,visible,"A tapestry of:
+Damien Hirst
+Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 
+1219 × 1219 mm
+Household gloss on canvas",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/HENI_H1-3_1200x1200px_8bit_eciRGBv2.jpg,,,,,,,,,0,0,276,field_5accc8de1bcea,H1-3,field_5accc92598d38,298,field_5acdc5e88a8f6,,30,Damien Hirst,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,348,Flow,"A facsimile object of: , Gerhard Richter , Flow, 2013, CR 933-2 , 1000 × 2000 mm , Lacquer behind glass",taxable,,1,,,,,,SOLD OUT,,P,15,P15,Gerhard Richter
+349,simple,,Trance,1,0,visible,"A tapestry of:
+Damien Hirst
+Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 
+1219 × 1219 mm
+Household gloss on canvas",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/HENI_H1-4_1200x1200px_8bit_eciRGBv2.jpg,,,,,,,,,0,0,276,field_5accc8de1bcea,H1-4,field_5accc92598d38,298,field_5acdc5e88a8f6,,30,Damien Hirst,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,349,Flow,"A facsimile object of:, Gerhard Richter, Flow, 2013, CR 933-3, 1000 × 2000 mm, Lacquer behind glass",taxable,,1,,,,,,SOLD OUT,,P,16,P16,Gerhard Richter
+350,simple,,Light,1,0,visible,"A tapestry of:
+Damien Hirst
+Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 
+1219 × 1219 mm
+Household gloss on canvas",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/HENI_H1-5_1200x1200px_8bit_eciRGBv2.jpg,,,,,,,,,0,0,276,field_5accc8de1bcea,H1-5,field_5accc92598d38,298,field_5acdc5e88a8f6,,30,Damien Hirst,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,350,Tulips,"A giclée print of:, , Gerhard Richter, , Tulpen, 1995, CR 825-2, , 360 × 410 mm, , Oil on canvas",taxable,,1,,,,,,SOLD OUT,,P,17,P17,Gerhard Richter
+352,simple,,Rapture,1,0,visible,"A tapestry of:
+Damien Hirst
+Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 
+1219 × 1219 mm
+Household gloss on canvas",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/HENI_H1-6_1200x1200px_8bit_eciRGBv2.jpg,,,,,,,,,0,0,276,field_5accc8de1bcea,H1-6,field_5accc92598d38,298,field_5acdc5e88a8f6,,30,Damien Hirst,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,352,Portrait of George Dyer Riding a Bicycle,"Giclée print mounted on aluminium composite panel, framed:, Francis Bacon, Portrait of George Dyer Riding a Bicycle, 1966, CR 66-15, Oil and sand on canvas, Fondation Beyeler, Riehen/Basel, Original: 1980 × 1475 mm, Edition: 1980 × 1475 mm",taxable,,1,,,,,,POA,,Q,1A,Q1A,Francis Bacon
+358,simple,,Ecstasy,1,0,visible,"A tapestry of:
+Damien Hirst
+Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 
+1219 × 1219 mm
+Household gloss on canvas",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/HENI_H1-8_1200x1200px_8bit_eciRGBv2.jpg,,,,,,,,,0,0,276,field_5accc8de1bcea,H1-8,field_5accc92598d38,298,field_5acdc5e88a8f6,,30,Damien Hirst,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,358,Portrait of George Dyer Riding a Bicycle,"Giclée print mounted on aluminium composite panel, framed:, Francis Bacon, Portrait of George Dyer Riding a Bicycle, 1966, CR 66-15, Oil and sand on canvas, Fondation Beyeler, Riehen/Basel, Original: 1980 × 1475 mm, Edition: 1100 × 820 mm",taxable,,1,,,,,,"£3,400 ",,Q,1B,Q1B,Francis Bacon
+359,simple,,Flow,1,0,visible,"A facsimile object of: 
+Gerhard Richter
+Flow, 2013, CR 934-11 
+Original: 370 × 370 mm
+Edition: 450 × 450 mm
+Lacquer behind glass",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/P05_Gerhard-Richter_CR_934-11_Flow_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,203,field_5accc8de1bcea,P5,field_5accc92598d38,299,field_5acdc5e88a8f6,,30,Gerhard Richter,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,359,Lying Figure,"Giclée print mounted on aluminium composite panel, framed:, Francis Bacon, Lying Figure, 1969, CR 69-03, Oil on canvas, Fondation Beyeler, Riehen/Basel, Original: 1980 × 1475 mm, Edition: 1980 × 1475 mm",taxable,,1,,,,,,POA,,Q,2A,Q2A,Francis Bacon
+360,simple,,Glory,1,0,visible,"A tapestry of:
+Damien Hirst
+Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 
+1219 × 1219 mm
+Household gloss on canvas",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/HENI_H1-9_1200x1200px_8bit_eciRGBv2.jpg,,,,,,,,,0,0,276,field_5accc8de1bcea,H1-9,field_5accc92598d38,298,field_5acdc5e88a8f6,,30,Damien Hirst,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,360,Lying Figure,"Giclée print mounted on aluminium composite panel, framed:, Francis Bacon, Lying Figure, 1969, CR 69-03, Oil on canvas, Fondation Beyeler, Riehen/Basel, Original: 1980 × 1475 mm, Edition: 1100 x 820 mm",taxable,,1,,,,,,"£3,400 ",,Q,2B,Q2B,Francis Bacon
+397,simple,,Exaltation,1,0,visible,"A tapestry of:
+Damien Hirst
+Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 
+1219 × 1219 mm
+Household gloss on canvas",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/HENI_H1-10_1200x1200px_8bit_eciRGBv2.jpg,,,,,,,,,0,0,276,field_5accc8de1bcea,H1-10,field_5accc92598d38,298,field_5acdc5e88a8f6,,30,Damien Hirst,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,397,Study for Head of Lucian Freud,"A giclée print of:, Francis Bacon, Study for Head of Lucian Freud, 1967, CR 67-07 355 × 305 mm, Oil on canvas, Private Collection",taxable,,1,,,,,,"£3,400 ",,Q,3,Q3,Francis Bacon
+399,simple,,Prophecy,1,0,visible,"A tapestry of:
+Damien Hirst
+Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 
+1219 × 1219 mm
+Household gloss on canvas",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/HENI_H1-11_1200x1200px_8bit_eciRGBv2.jpg,,,,,,,,,0,0,276,field_5accc8de1bcea,H1-11,field_5accc92598d38,298,field_5acdc5e88a8f6,,30,Damien Hirst,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,399,Study of a Nude,"A giclée print of:, Francis Bacon, Study of a Nude, 1952-1953, CR 53-01, 610 × 510 mm, Oil on canvas, Sainsbury Centre for Visual Arts, Norwich",taxable,,1,,,,,,"£2,500 ",,Q,4,Q4,Francis Bacon
+401,simple,,Seeing,1,0,visible,"A tapestry of:
+Damien Hirst
+Beautiful Flailing, Falling, Grip on Reality, Pull Yourself Together Painting, 2008 
+1219 × 1219 mm
+Household gloss on canvas",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/HENI_H1-12_1200x1200px_8bit_eciRGBv2.jpg,,,,,,,,,0,0,276,field_5accc8de1bcea,H1-12,field_5accc92598d38,298,field_5acdc5e88a8f6,,30,Damien Hirst,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,401,‘Figures in a Landscape’,"A giclée print of:, Francis Bacon, ‘Figures in a Landscape’, c. 1956, CR 56-11 , 1473 × 1321 mm, Oil on canvas",taxable,,1,,,,,,"£4,500 ",,Q,5,Q5,Francis Bacon
+403,simple,,Colour Chart,1,0,visible,"A giclée print of:
+Damien Hirst
+Ducolux Farbenkarte und Pastelltöne 
+1440 × 1000 mm
+Household gloss on canvas
+Triptych",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/HIR_21408_1000x480px@72dpi_8bit_sRGB.jpg,,,,,,,,,0,0,276,field_5accc8de1bcea,H2,field_5accc92598d38,298,field_5acdc5e88a8f6,,30,Damien Hirst,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,403,In Memory of George Dyer,"Diasec-mounted giclée print on aluminium composite panel:, Francis Bacon, In Memory of George Dyer, 1971, CR 71-09, Oil and dry transfer lettering on canvas, Triptych, Original: 1980 × 1475 mm, Edition: 1980 × 1475 mm, each numbered",taxable,,1,,,,,,"£13,500 ",,Q,6A,Q6A,Francis Bacon
+405,simple,,Colour Chart (Glitter),1,0,visible,"A screenprint of:
+Damien Hirst
+Ducolux Farbenkarte und Pastelltöne 
+1440 × 1000 mm
+Household gloss on canvas
+Triptych",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/H3-Colour-Chart_1000x500px@72dpi_8bit_sRGB.jpg,,,,,,,,,0,0,276,field_5accc8de1bcea,H3,field_5accc92598d38,298,field_5acdc5e88a8f6,,30,Damien Hirst,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,405,In Memory of George Dyer,"Diasec-mounted giclée print on aluminium composite panel:, Francis Bacon, In Memory of George Dyer, 1971, CR 71-09, Oil and dry transfer lettering on canvas, Triptych, Original: 1980 × 1475 mm, Edition: 1100 x 820 mm, each numbered",taxable,,1,,,,,,"£2,500 ",,Q,6B,Q6B,Francis Bacon
+407,simple,,Abstraktes Bild,1,0,visible,"A chromogenic print of:
+Gerhard Richter
+Abstraktes Bild, 1990, CR 724-4 
+920 × 1260 mm
+Oil on canvas",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/P01_Gerhard-Richter_CR_724-4_Abstraktes-Bild_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,203,field_5accc8de1bcea,P1,field_5accc92598d38,299,field_5acdc5e88a8f6,,30,Gerhard Richter,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,407,‘Study after Velázquez’,"Diasec-mounted giclée print on aluminium composite panel:, Francis Bacon, ‘Study after Velázquez’, 1950, CR 50-05, Oil on canvas, Original: 1980 × 1370 mm, Edition: 1980 × 1370 mm",taxable,,1,,,,,,"£7,500 ",,Q,7A,Q7A,Francis Bacon
+409,simple,,Haggadah,1,0,visible,"A chromogenic print of: 
+Gerhard Richter
+Haggadah, 2006, CR 895-10 
+1520 × 1520 mm
+Oil on canvas",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/P02_Gerhard-Richter_CR-895-10_Haggadah_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,203,field_5accc8de1bcea,P2,field_5accc92598d38,299,field_5acdc5e88a8f6,,30,Haggadah,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,409,‘Study after Velázquez’,"Diasec-mounted giclée print on aluminium composite panel:, Francis Bacon, ‘Study after Velázquez’, 1950, CR 50-05, Oil on canvas, Original: 1980 × 1370 mm, Edition: 1100 × 761 mm",taxable,,1,,,,,,"£2,500 ",,Q,7B,Q7B,Francis Bacon
+411,simple,,Blumenstrauß,1,0,visible,"A chromogenic print of:
+Gerhard Richter 
+Blumenstrauß, 2009, CR 908-1 
+1000 × 1000 mm
+Oil on canvas",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/P03_Gerhard-Richter_CR_908-1_Blumenstrauß_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,203,field_5accc8de1bcea,P3,field_5accc92598d38,299,field_5acdc5e88a8f6,,30,Gerhard Richter,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,411,‘Marching Figures’,"Diasec-mounted giclée print on aluminium composite panel:, Francis Bacon, ‘Marching Figures’, c.1952, CR 52-22 , Oil on canvas, Original: 1980 × 1370 mm, Edition: 1981 × 1372 mm",taxable,,1,,,,,,"£7,500 ",,Q,8A,Q8A,Francis Bacon
+413,simple,,Flow,1,0,visible,"A facsimile object of:
+Gerhard Richter 
+Flow, 2013, CR 934-9  
+Original: 370 × 370 mm
+Edition: 450 × 450 mm
+Lacquer behind glass",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/P04_Gerhard-Richter_CR_934-9_Flow_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,203,field_5accc8de1bcea,P4,field_5accc92598d38,299,field_5acdc5e88a8f6,,30,Gerhard Richter,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,413,‘Marching Figures’,"Diasec-mounted giclée print on aluminium composite panel:, Francis Bacon, ‘Marching Figures’, c.1952, CR 52-22 , Oil on canvas, Original: 1980 × 1370 mm, Edition: 1100 × 761 mm",taxable,,1,,,,,,"£2,500 ",,Q,8B,Q8B,Francis Bacon
+415,simple,,John Minton,1,0,visible,"A giclée print of: 
+Lucian Freud
+John Minton, 1952 
+410 × 260 mm
+Oil on canvas",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/R01_Lucian-Freud_John-Minton_1952_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,278,field_5accc8de1bcea,R1,field_5accc92598d38,300,field_5acdc5e88a8f6,,30,Lucian Freud,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,415,John Minton,"A giclée print of: , Lucian Freud, John Minton, 1952 , 410 × 260 mm, Oil on canvas",taxable,,1,,,,,,"£1,250 ",,R,1,R1,Lucian Freud
+417,simple,,Bust of Annette,1,0,visible,"A giclée print of:
+Alberto Giacometti
+Bust of Annette, 1954
+290 × 220 mm
+Oil on canvas
+Fondation Beyeler, Riehen/Basel",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/S01_Alberto-Giacometti_Bust-of-Annette_1954_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,280,field_5accc8de1bcea,S1,field_5accc92598d38,301,field_5acdc5e88a8f6,,30,Alberto Giacometti,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,417,Bust of Annette,"A giclée print of:, Alberto Giacometti, Bust of Annette, 1954, 290 × 220 mm, Oil on canvas, Fondation Beyeler, Riehen/Basel",taxable,,1,,,,,,"£1,500 ",,S,1,S1,Alberto Giacometti
+419,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/36-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-36,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,419,Grey Figure (Figure Grise),"A giclée print of:, Alberto Giacometti, Grey Figure (Figure Grise), 1957 , 650 × 540 mm, Oil on canvas, Fondation Beyeler, Riehen/Basel",taxable,,1,,,,,,"£1,500 ",,S,2,S2,Alberto Giacometti
+421,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/27-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-27,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,421,Caroline,"A giclée print of:, Alberto Giacometti, Caroline, 1961, 1000 × 820 mm, Oil on canvas, Fondation Beyeler, Riehen/Basel",taxable,,1,,,,,,"£1,750 ",,S,3,S3,Alberto Giacometti
+452,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/28-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-28,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,452,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-2,G1-2,Brian Clarke
+454,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/29-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-29,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,454,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-3,G1-3,Brian Clarke
+456,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/30-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-30,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,456,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-4,G1-4,Brian Clarke
+458,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/31-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-31,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,458,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-5,G1-5,Brian Clarke
+460,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/32-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-32,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,460,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-6,G1-6,Brian Clarke
+462,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/33-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-33,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,462,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-7,G1-7,Brian Clarke
+464,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/34-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-34,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,464,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-8,G1-8,Brian Clarke
+466,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/35-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-35,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,466,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-9,G1-9,Brian Clarke
+468,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/37-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-37,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,468,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,all POA,,G,1-10,G1-10,Brian Clarke
+470,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/25-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-25,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,470,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-11,G1-11,Brian Clarke
+472,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/38-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-38,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,472,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-12,G1-12,Brian Clarke
+474,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/39-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-39,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,474,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-13,G1-13,Brian Clarke
+476,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/40-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-40,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,476,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-14,G1-14,Brian Clarke
+478,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/41-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-41,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,478,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-15,G1-15,Brian Clarke
+480,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/42-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-42,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,480,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-16,G1-16,Brian Clarke
+482,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/43-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-43,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,482,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-17,G1-17,Brian Clarke
+484,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/44-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-44,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,484,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-18,G1-18,Brian Clarke
+486,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/45-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-45,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,486,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-19,G1-19,Brian Clarke
+488,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/46-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-46,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,488,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-20,G1-20,Brian Clarke
+490,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/47-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-47,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,490,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-21,G1-21,Brian Clarke
+492,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/26-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-26,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,492,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-22,G1-22,Brian Clarke
+494,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/24-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-24,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,494,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-23,G1-23,Brian Clarke
+496,simple,,Grey Figure (Figure Grise),1,0,visible,"A giclée print of:
+Alberto Giacometti
+Grey Figure (Figure Grise), 1957 
+650 × 540 mm
+Oil on canvas
+Fondation Beyeler, Riehen/Basel",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/S02_Alberto-Giacometti_Figure-Grise_1957_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,280,field_5accc8de1bcea,S2,field_5accc92598d38,301,field_5acdc5e88a8f6,,30,Alberto Giacometti,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,496,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-24,G1-24,Brian Clarke
+498,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/11-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-11,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,498,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-25,G1-25,Brian Clarke
+500,simple,,Caroline,1,0,visible,"A giclée print of:
+Alberto Giacometti
+Caroline, 1961
+1000 × 820 mm
+Oil on canvas
+Fondation Beyeler, Riehen/Basel",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/S03_Alberto-Giacometti_Caroline_1961_2500px_8bit_sRGB.jpg,,,,,,,,,0,0,280,field_5accc8de1bcea,S3,field_5accc92598d38,301,field_5acdc5e88a8f6,,30,Alberto Giacometti,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,500,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-26,G1-26,Brian Clarke
+502,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/02-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-2,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,502,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-27,G1-27,Brian Clarke
+504,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/03-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-3,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,504,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-28,G1-28,Brian Clarke
+506,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/04-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-4,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,506,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-29,G1-29,Brian Clarke
+508,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/05-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-5,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,508,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-30,G1-30,Brian Clarke
+510,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/06-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-6,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,510,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-31,G1-31,Brian Clarke
+512,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/07-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-7,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,512,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-32,G1-32,Brian Clarke
+514,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/08-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-8,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,514,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-33,G1-33,Brian Clarke
+516,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/09-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-9,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,516,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-34,G1-34,Brian Clarke
+518,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/10-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-10,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,518,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-35,G1-35,Brian Clarke
+520,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/12-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-12,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,520,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-36,G1-36,Brian Clarke
+522,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/23-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-23,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,522,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-37,G1-37,Brian Clarke
+524,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/13-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-13,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,524,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-38,G1-38,Brian Clarke
+526,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/14-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-14,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,526,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-39,G1-39,Brian Clarke
+528,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/15-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-15,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,528,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-40,G1-40,Brian Clarke
+530,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/16-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-16,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,530,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-41,G1-41,Brian Clarke
+532,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/17-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-17,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,532,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-42,G1-42,Brian Clarke
+534,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/18-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-18,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,534,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-43,G1-43,Brian Clarke
+536,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/19-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-19,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,536,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-44,G1-44,Brian Clarke
+538,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/20-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-20,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,538,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-45,G1-45,Brian Clarke
+540,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/21-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-21,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,540,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-46,G1-46,Brian Clarke
+542,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/22-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-22,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,542,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-47,G1-47,Brian Clarke
+544,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/48-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-48,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,544,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-48,G1-48,Brian Clarke
+546,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/49-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-49,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,546,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-49,G1-49,Brian Clarke
+548,simple,,Riyadh,1,0,visible,"Brian Clarke
+Riyadh
+2017
+Stained glass in wooden frame
+204 x 252 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/G2-5.png,,,,,,,,,0,0,275,field_5accc8de1bcea,G2-5,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,548,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-50,G1-50,Brian Clarke
+550,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/69-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-69,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,550,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-51,G1-51,Brian Clarke
+552,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/70-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-70,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,552,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-52,G1-52,Brian Clarke
+554,simple,,Seville,1,0,visible,"Brian Clarke
+Seville
+2016
+Stained glass in wooden frame
+204 x 252 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/G2-1.png,,,,,,,,,0,0,275,field_5accc8de1bcea,G2-1,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,554,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-53,G1-53,Brian Clarke
+556,simple,,Miami,1,0,visible,"Brian Clarke
+Miami
+2016
+Stained glass in wooden frame
+204 x 252 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/G2-2.png,,,,,,,,,0,0,275,field_5accc8de1bcea,G2-2,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,556,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-54,G1-54,Brian Clarke
+558,simple,,Chiang Mai,1,0,visible,"Brian Clarke
+Chiang Mai
+2017
+Stained glass in wooden frame
+204 x 252 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/G2-3.png,,,,,,,,,0,0,275,field_5accc8de1bcea,G2-3,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,558,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-55,G1-55,Brian Clarke
+560,simple,,Lincoln’s Inn,1,0,visible,"Brian Clarke
+Lincoln’s Inn
+2017
+Stained glass in wooden frame
+204 x 252 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/G2-4.png,,,,,,,,,0,0,275,field_5accc8de1bcea,G2-4,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,560,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-56,G1-56,Brian Clarke
+562,simple,,Katoomba,1,0,visible,"Brian Clarke
+Katoomba
+2017
+Stained glass in wooden frame
+204 x 252 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/G2-6.png,,,,,,,,,0,0,275,field_5accc8de1bcea,G2-6,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,562,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-57,G1-57,Brian Clarke
+565,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/67-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-67,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,565,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-58,G1-58,Brian Clarke
+567,simple,,Lancaster,1,0,visible,"Brian Clarke
+Lancaster
+2017
+Stained glass in wooden frame
+204 x 252 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/G2-7.png,,,,,,,,,0,0,275,field_5accc8de1bcea,G2-7,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,567,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-59,G1-59,Brian Clarke
+569,simple,,Ascot,1,0,visible,"Brian Clarke
+Ascot
+2017
+Stained glass in wooden frame
+204 x 252 cm
+",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/G2-8.png,,,,,,,,,0,0,275,field_5accc8de1bcea,G2-8,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,569,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-60,G1-60,Brian Clarke
+571,simple,,Wall Street,1,0,visible,"Brian Clarke
+Wall Street
+2017
+Stained glass in wooden frame
+204 x 252 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/G2-9.png,,,,,,,,,0,0,275,field_5accc8de1bcea,G2-9,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,571,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-61,G1-61,Brian Clarke
+573,simple,,Fez,1,0,visible,"Brian Clarke
+Fez
+2017
+Stained glass in wooden frame
+204 x 252 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/G2-10.png,,,,,,,,,0,0,275,field_5accc8de1bcea,G2-10,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,573,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-62,G1-62,Brian Clarke
+575,simple,,Leipzig,1,0,visible,"Brian Clarke
+Leipzig
+2017
+Stained glass in wooden frame
+204 x 252 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/G2-11.png,,,,,,,,,0,0,275,field_5accc8de1bcea,G2-11,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,575,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-63,G1-63,Brian Clarke
+577,simple,,Hamburg,1,0,visible,"Brian Clarke
+Hamburg
+2017
+Stained glass in wooden frame
+204 x 252 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/G2-12.png,,,,,,,,,0,0,275,field_5accc8de1bcea,G2-12,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,577,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-64,G1-64,Brian Clarke
+579,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/68-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-68,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,579,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-65,G1-65,Brian Clarke
+581,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/66-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-66,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,581,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-66,G1-66,Brian Clarke
+583,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/50-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-50,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,583,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-67,G1-67,Brian Clarke
+585,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/57-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-57,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,585,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-68,G1-68,Brian Clarke
+587,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/51-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-51,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,587,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-69,G1-69,Brian Clarke
+589,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/52-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-52,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,589,Summer Solstice Spitfires,"Brian Clarke, Summer Solstice Spitfires, 2016, Stained glass, 80 x 80 cm",taxable,,1,,,,,,,,G,1-70,G1-70,Brian Clarke
+591,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/53-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-53,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,591,Seville,"Brian Clarke, Seville, 2016, Stained glass in wooden frame, 204 x 252 cm",taxable,,1,,,,,,,,G,2-1,G2-1,Brian Clarke
+593,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/54-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-54,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,593,Miami,"Brian Clarke, Miami, 2016, Stained glass in wooden frame, 204 x 252 cm",taxable,,1,,,,,,,,G,2-2,G2-2,Brian Clarke
+595,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/55-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-55,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,595,Chiang Mai,"Brian Clarke, Chiang Mai, 2017, Stained glass in wooden frame, 204 x 252 cm",taxable,,1,,,,,,,,G,2-3,G2-3,Brian Clarke
+597,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/56-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-56,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,597,Lincoln’s Inn,"Brian Clarke, Lincoln’s Inn, 2017, Stained glass in wooden frame, 204 x 252 cm",taxable,,1,,,,,,,,G,2-4,G2-4,Brian Clarke
+599,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/58-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-58,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,599,Riyadh,"Brian Clarke, Riyadh, 2017, Stained glass in wooden frame, 204 x 252 cm",taxable,,1,,,,,,,,G,2-5,G2-5,Brian Clarke
+601,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/65-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-65,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,601,Katoomba,"Brian Clarke, Katoomba, 2017, Stained glass in wooden frame, 204 x 252 cm",taxable,,1,,,,,,,,G,2-6,G2-6,Brian Clarke
+603,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/59-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-59,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,603,Lancaster,"Brian Clarke, Lancaster, 2017, Stained glass in wooden frame, 204 x 252 cm",taxable,,1,,,,,,,,G,2-7,G2-7,Brian Clarke
+605,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/60-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-60,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,605,Ascot,"Brian Clarke, Ascot, 2017, Stained glass in wooden frame, 204 x 252 cm",taxable,,1,,,,,,,,G,2-8,G2-8,Brian Clarke
+607,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/61-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-61,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,607,Wall Street,"Brian Clarke, Wall Street, 2017, Stained glass in wooden frame, 204 x 252 cm",taxable,,1,,,,,,,,G,2-9,G2-9,Brian Clarke
+609,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/62-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-62,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,609,Fez,"Brian Clarke, Fez, 2017, Stained glass in wooden frame, 204 x 252 cm",taxable,,1,,,,,,,,G,2-10,G2-10,Brian Clarke
+611,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/63-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-63,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,611,Leipzig,"Brian Clarke, Leipzig, 2017, Stained glass in wooden frame, 204 x 252 cm",taxable,,1,,,,,,,,G,2-11,G2-11,Brian Clarke
+613,simple,,Summer Solstice Spitfires,1,0,visible,"Brian Clarke
+Summer Solstice Spitfires
+2016
+Stained glass
+80 x 80 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/64-of-70.jpg,,,,,,,,,0,0,275,field_5accc8de1bcea,G1-64,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,613,Hamburg,"Brian Clarke, Hamburg, 2017, Stained glass in wooden frame, 204 x 252 cm",taxable,,1,,,,,,,,G,2-12,G2-12,Brian Clarke
+615,simple,,Malibu,1,0,visible,"Brian Clarke
+Malibu
+2017
+Stained glass in wooden frame
+204 x 252 cm",,,,taxable,,1,,0,0,,,,,0,,,,"Uncategorized, Editions",,,http://henieditions.com/wp-content/uploads/sites/4/2018/04/G2-13.png,,,,,,,,,0,0,275,field_5accc8de1bcea,G2-13,field_5accc92598d38,297,field_5acdc5e88a8f6,,30,Brian Clarke,field_5acf3a83909bb,,field_5ad5d2bd71f84,,field_5ad5d2c971f85,,field_5ad897325c2ef,,615,Malibu,"Brian Clarke, Malibu, 2017, Stained glass in wooden frame, 204 x 252 cm",taxable,,1,,,,,,,,G,2-13,G2-13,Brian Clarke
