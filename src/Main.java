@@ -1,40 +1,23 @@
-import com.opencsv.CSVReader;
-import com.opencsv.CSVWriter;
-import com.sun.rowset.internal.Row;
-import jxl.Workbook;
-import jxl.write.WritableSheet;
-import jxl.write.WritableWorkbook;
+import Implement.HeniEdition;
 import jxl.write.WriteException;
-import org.omg.Messaging.SYNC_WITH_TRANSPORT;
 
-import java.io.File;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.Arrays;
-import java.util.List;
+import java.io.*;
 
 public class Main {
 
-    public String[] getNewLineArray(String stringWithNewline){
-       return stringWithNewline.split("\\r?\\n");
-    }
-
-    public String[] getSpacedLineArray(String stringWithSpace){
-        return stringWithSpace.split("\\s+");
-    }
-
     public static void main(String [] args) throws IOException, WriteException {
 
-        Main util = new Main();
+        HeniEdition app = new HeniEdition();
+        app.setReaderWriter("input.csv", "output.csv");
+        app.loopThroughReadAllRows();
 
-        CSVReader reader = new CSVReader(new FileReader("input.csv"));
-        CSVWriter writer = new CSVWriter(new FileWriter("output.csv", true));
+   //     CSVReader reader = new CSVReader(new FileReader(Main.INPUT));
+    //    CSVWriter writer = new CSVWriter(new FileWriter(Main.OUTPUT, true));
 
-        List<String[]> allRows = reader.readAll();
-
+   //     List<String[]> allRows = reader.readAll();
+/*
         for(String[] row : allRows){
-            String lines[] = util.getNewLineArray(row[7]);
+            String lines[] = Helper.getNewLineArray(row[7]);
             String name="", artist="", year="", medium="", height="", width="", unit="", dimensions = "";
 
             dimensions = "";
@@ -45,7 +28,7 @@ public class Main {
                 medium = lines[3];
                 dimensions = lines[4];
 
-                String tempDimensions[] = util.getSpacedLineArray(lines[4]);
+                String tempDimensions[] = Helper.getSpacedLineArray(lines[4]);
                 if(tempDimensions.length > 3) {
                     if(tempDimensions[1].equalsIgnoreCase("x")) {
                         height = tempDimensions[0];
@@ -64,6 +47,8 @@ public class Main {
 
         writer.close();
 
+
+*/
 
     }
 }
