@@ -1,19 +1,23 @@
+import Core.CSVManipulator;
 import Implement.HeniEdition;
-import jxl.write.WriteException;
-
-import java.io.*;
 
 public class Main {
 
-    public static void main(String [] args) throws IOException, WriteException {
-
+    public static void main(String [] args){
         HeniEdition app = new HeniEdition();
+        app.setReader("input.csv");
+        app.setWriter("output.csv");
+
+
+
+     /*   HeniEdition app = new HeniEdition();
         app.setReaderWriter("input.csv", "output.csv");
-
-
         app.setOutputHeader(new String[]{"ID", "SKU", "Published"});
-
         app.loopThroughReadAllRows();
+        app.writeOutputAll();
+*/
+      //  CSVManipulator app = new CSVManipulator();
+
 
    //     CSVReader reader = new CSVReader(new FileReader(Main.INPUT));
     //    CSVWriter writer = new CSVWriter(new FileWriter(Main.OUTPUT, true));

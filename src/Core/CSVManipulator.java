@@ -1,139 +1,70 @@
 package Core;
 
-import com.opencsv.CSVReader;
-import com.opencsv.CSVWriter;
-
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
-public class CSVManipulator {
-    // Writing Output
-    protected List<String[]> writeRows;
-    protected List<String> outputHeader = new ArrayList<>();
-    public String currentWriteCellColumnName; //name of current cell in the loop
+public class CSVManipulator{
+    protected Reader reader;
+    protected Writer writer;
 
-    // Instance of CSVReader to read write csv
-    private CSVReader reader;
-    private CSVWriter writer;
+    public void setReader(String inputFileName){
+        this.reader = new Reader(inputFileName);
+        hookReader();
+    }
 
-    // Variable to help manipulating csv while reading it
-    public List<String[]> readAllRows; // list of all rows in the input csv
-    public List<String> columnNames; // list of header/column value and there index
-    public List<String> currentRowIndex; // save current row index/value to get it's header value
-    public String currentReadCellColumnName; //name of current cell in the loop
+    public void setWriter(String outputFileName){
+        this.writer = new Writer(outputFileName);
+        hookWriter();
+    }
 
+    /*********************************************************************************************/
 
-
-    //set value for later uses
-    public void setReaderWriter(String inputName, String outputName){
-        try {
-            this.reader = new CSVReader(new FileReader(inputName));
-            this.writer = new CSVWriter(new FileWriter(outputName));
-
-            this.readAllRows = this.reader.readAll(); //set all rows of input
-            this.columnNames = Arrays.asList(this.readAllRows.get(0));     //set the header columns name for later use
-        } catch (Exception e) {
-            e.printStackTrace();
+    //READER
+    public void loopThroughReaderCSV(){
+        List<String[]> allRows = this.reader.getInputAllRows();
+        for(int j=0; j<allRows.size(); j++){
+            this.reader.setCurrentRowNumber(j);
+            hookReadRow(allRows.get(j));
+            for(int i=0; i<allRows.get(j).length; i++){
+                this.reader.setCurrentColumnName(this.reader.getInputColumns().get(i));
+                hookReadCell(allRows.get(j)[i]);
+            }
         }
     }
 
+    public void hookReader() {
+        loopThroughReaderCSV();
+    }
 
-    // loops thorugh all the rows of csv
-    public void loopThroughReadAllRows(){
-        for(String[] row : this.readAllRows){
-            this.hookReadLoopRow(row); //priority to row loop hook
-            this.loopThroughtRowStringArrayRead(row); // 2nd loop to each cell hook
+    public void hookReadRow(String[] row){
+    }
+
+    public void hookReadCell(String cell){
+    }
+
+    /*********************************************************************************************/
+
+    //WRITER
+    public void loopThroughWriterCSV(){
+        List<String[]> allRows = this.writer.getOutputAllRows();
+        for(int j=0; j<allRows.size(); j++){
+            this.writer.setCurrentRowNumber(j);
+            hookWriteRow(allRows.get(j));
+            for(int i=0; i<allRows.get(j).length; i++){
+                this.writer.setCurrentColumnName(this.writer.getOutputColumns().get(i));
+                hookWriteCell(allRows.get(j)[i]);
+            }
         }
     }
 
-    public void loopThroughtRowStringArrayRead(String[] row){
-        for(int i=0; i<row.length; i++){
-            this.currentReadCellColumnName = this.getReadColumnNameOfCell(i);
-            this.hookReadLoopCell(row[i]);
-        }
+    public void hookWriter() {
     }
 
-    //get the column name of current cell
-    public String getReadColumnNameOfCell(int i){
-        return this.columnNames.get(i);
+    public void hookWriteCell(String cell) {
     }
 
-
-    /*****************************************************************************************************************/
-
-    //HOOKS override these methods in child class to manipulate for specific csv files
-
-    // hooks into loop of all rows of input read csv so we can use our method here to manipulate with rows data
-    public void hookReadLoopRow(String[] row){
-
+    public void hookWriteRow(String[] row) {
     }
-
-    //hooks into loop of each cell in the row
-    public void hookReadLoopCell(String cell){
-      /*  if(this.currentCellColumnName.equalsIgnoreCase("short description")){
-            System.out.println(this.currentCellColumnName);
-            System.out.println(cell);
-        }
-        */
-    }
-
-
-
-//hooks while writing
-
-    // hooks into loop of all rows of input read csv so we can use our method here to manipulate with rows data
-    public void hookWriteLoopRow(String[] row){
-
-    }
-
-    //hooks into loop of each cell in the row
-    public void hookWriteLoopCell(String cell){
-      /*  if(this.currentCellColumnName.equalsIgnoreCase("short description")){
-            System.out.println(this.currentCellColumnName);
-            System.out.println(cell);
-        }
-        */
-    }
-
-    /*****************************************************************************************************************/
-
-
-
-    /****************w r i t e r **********************************/
-
-    //write output with hooks
-    public void writeOutput(){
-        loopThroughWriteAllRows();
-    }
-
-    //write all the variable at once without further manipulation
-    public void writeOutputAll(){
-        this.writer.writeAll(this.writeRows);
-    }
-
-
-
-    // loops thorugh all the rows of csv
-    public void loopThroughWriteAllRows(){
-        for(String[] row : this.writeRows){
-            this.hookWriteLoopRow(row); //priority to row loop hook
-            this.loopThroughtRowStringArrayWrite(row); // 2nd loop to each cell hook
-        }
-    }
-
-    public void loopThroughtRowStringArrayWrite(String[] row){
-        for(int i=0; i<row.length; i++){
-            this.currentWriteCellColumnName = this.getWriteColumnNameOfCell(i);
-            this.hookWriteLoopCell(row[i]);
-        }
-    }
-
-    public String getWriteColumnNameOfCell(int i){
-        return this.outputHeader.get(i);
-    }
+/*********************************************************************************************/
 
 
 }
